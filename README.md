@@ -1,6 +1,4 @@
 # DrGVishwanathanChallenge_Leetcode
-1.560_leetcode
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
