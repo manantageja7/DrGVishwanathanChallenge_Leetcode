@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +25,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
