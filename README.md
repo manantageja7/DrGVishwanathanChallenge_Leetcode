@@ -25,6 +25,7 @@
 | [0012-integer-to-roman](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0013-roman-to-integer) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
