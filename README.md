@@ -32,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0027-remove-element) |
 | [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
