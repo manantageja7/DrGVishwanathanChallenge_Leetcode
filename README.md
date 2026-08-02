@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0011-container-with-most-water](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0027-remove-element) |
+| [0486-predict-the-winner](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,4 +83,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
