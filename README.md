@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0027-remove-element) |
 | [0486-predict-the-winner](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0027-remove-element) |
 ## Backtracking
 |  |
