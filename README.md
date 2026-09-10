@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0496-next-greater-element-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
@@ -42,6 +43,7 @@
 | [0027-remove-element](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0035-search-insert-position) |
 | [0486-predict-the-winner](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -127,4 +130,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0035-search-insert-position) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
