@@ -42,6 +42,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0035-search-insert-position) |
+| [0239-sliding-window-maximum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Sorting
 |  |
 | ------- |
@@ -145,5 +147,18 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0622-design-circular-queue) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
