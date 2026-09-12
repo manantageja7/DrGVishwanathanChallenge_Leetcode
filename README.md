@@ -46,6 +46,7 @@
 | [0496-next-greater-element-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0622-design-circular-queue) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0622-design-circular-queue](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -139,4 +141,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
