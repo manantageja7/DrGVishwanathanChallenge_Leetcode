@@ -43,6 +43,7 @@
 | [0027-remove-element](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0035-search-insert-position) |
 | [0239-sliding-window-maximum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0605-can-place-flowers) |
 ## Linked List
 |  |
@@ -77,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -100,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
