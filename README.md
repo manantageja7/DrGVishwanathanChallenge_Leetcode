@@ -165,4 +165,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/manantageja7/DrGVishwanathanChallenge_Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
